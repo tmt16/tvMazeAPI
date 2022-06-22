@@ -52,7 +52,8 @@ Explore the docs for the TVMaze API and find how we’d extract an image in the 
 
 Update populateShows to show the image. You can do this with the following snippet of HTML, inside the .card div:
 
-<img class="card-img-top" src="/path/to/image">
+< img class= "card-img-top" src= "/path/to/image" >
+
 Be careful how you implement this. Not all shows have images, and if you’re not careful, this will break for shows without images. Make sure that you write this in a way where shows without missing images won’t break your site.
 
 For shows without an image, you can have it show this generic image instead: https://tinyurl.com/tv-missing
