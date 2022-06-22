@@ -4,7 +4,7 @@ TV Maze API Get Episodes and Shows
 Step 1: Understand The API
 Explore the TVMaze API. You will need to make a get request to two endpoints:
 
-http://api.tvmaze.com/search/shows ? q= search query
+http://api.tvmaze.com/search/shows ? q = < search query >
 
 and
 
